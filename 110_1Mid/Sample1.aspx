@@ -27,7 +27,7 @@
             <asp:Label ID="Label5" runat="server" Text="驗證碼" Font-Size="X-Large"></asp:Label>
             <asp:TextBox ID="tb_Num" runat="server" Height="15px" Width="50px"></asp:TextBox>
             <asp:Image ID="ig_Num" runat="server" /><br />
-            <asp:Button ID="btn_Submit" runat="server" Text="送出" Height="30px" Width="80px" PostBackUrl="~/Sample1Com.aspx" OnClientClick="btn_Submit _click" OnClick="btn_Submit_Click" />
+            <asp:Button ID="btn_Submit" runat="server" Text="送出" Height="30px" Width="80px" PostBackUrl="~/Sample1Com.aspx" OnClientClick="btn_Submit _click" OnClick="btn_Submit_Click1" />
         </div>
     </form>
 </body>

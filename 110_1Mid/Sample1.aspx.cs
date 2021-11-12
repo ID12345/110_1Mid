@@ -78,6 +78,11 @@ namespace _110_1Mid
         {
 
         }
+
+        protected void btn_Submit_Click1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
   
